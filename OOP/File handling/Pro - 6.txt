@@ -1,0 +1,25 @@
+
+---------------------
+ Name : darshan
+ Mark 1 : 99
+ Mark 2 : 98
+ Mark 2 : 98
+ Total : 294
+ Pr. : 98
+ Pass..
+---------------------
+ Name : dharam
+ Mark 1 : 97
+ Mark 2 : 96
+ Mark 2 : 96
+ Total : 288
+ Pr. : 96
+ Pass..
+---------------------
+ Name : a
+ Mark 1 : 10
+ Mark 2 : 20
+ Mark 2 : 20
+ Total : 60
+ Pr. : 20
+ Fail..
