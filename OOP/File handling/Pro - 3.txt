@@ -1,3 +1,0 @@
-
-Value is: 5
-Odd value
